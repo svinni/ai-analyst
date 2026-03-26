@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.*
+
+# Data files (potentially sensitive — add explicitly if you want them tracked)
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Outputs from code execution
+*.png
+cleaned_data.csv
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
